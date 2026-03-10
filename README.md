@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Projet de Cryptographie &mdash; Protection de l'information</strong><br>
-  FISE2 &bull; ESIREM &bull; 2024&ndash;2025
+  FISE2 &bull; Télécom Saint-Etienne &bull; 2024&ndash;2025
 </p>
 
 <p align="center">
@@ -226,9 +226,9 @@ Multiplication homomorphe : 4 * 5 = 20   Correct
 | | Nom | GitHub |
 |---|-----|--------|
 | | **Justin BOSSARD** | [@realnitsuj](https://github.com/realnitsuj) |
-| | **Tom MAFILLE** | |
+| | **Tom MAFILLE** | [@0-T0M-0](https://github.com/0-T0M-0) |
 
-Projet realise dans le cadre du cours de **Cryptographie** (Protection de l'information), FISE2 &mdash; ESIREM, Universite de Bourgogne.
+Projet realise dans le cadre du cours de **Cryptographie** (Protection de l'information), FISE2 &mdash; Télécom Saint-Étienne.
 
 ---
 
