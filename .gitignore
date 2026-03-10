@@ -1,0 +1,19 @@
+# Artefacts générés
+docs/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Présentations générées
+presentation/revealjs/pres.html
+presentation/manim/pres.html
+
+# Manim media
+media/
+
+# IDE
+.vscode/
+.idea/
