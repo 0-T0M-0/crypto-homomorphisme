@@ -809,7 +809,7 @@ Dans un système classique, la reconnaissance d’image repose sur l’extractio
 
 \vspace{10.0px}
 
-![](figure1.png)
+![](figures/figure1.png)
 
 \vspace{20.0px}
 
@@ -836,7 +836,7 @@ Le principe est le même que pour d'autres gestionnaires de photo (google photo 
 
 \vspace{10.0px}
 
-![](figure2.png)
+![](figures/figure2.png)
 
 \vspace{10.0px}
 

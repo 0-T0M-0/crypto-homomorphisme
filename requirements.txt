@@ -1,0 +1,3 @@
+sympy
+manim
+manim-slides[manim]

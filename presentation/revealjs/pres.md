@@ -13,7 +13,7 @@ revealjs-url: https://unpkg.com/reveal.js@^4
 
 #
 
-![](intro.jpeg){height=500px}
+![](images/intro.jpeg){height=500px}
 
 # Le chiffrement homomorphique
 
@@ -40,7 +40,7 @@ $E$ est dit homomorphe si on a :$$E(m_{1} \star m_{2}) = E(m_{1}) \circ E(m_{2})
 Tom
 :::
 
-![](../figure1.png)
+![](../../rapport/figures/figure1.png)
 
 ***
 
@@ -353,7 +353,7 @@ Parler de la reconnaissance d'images
 
 ## Principe
 
-![](../figure2.png)
+![](../../rapport/figures/figure2.png)
 
 ## Essai en direct
 
@@ -361,16 +361,16 @@ Parler de la reconnaissance d'images
 
 ::: {.columns}
 :::: {.column width="25%"}
-![](image_claire.jpeg)
+![](images/image_claire.jpeg)
 ::::
 :::: {.column width="25%"}
 1ac1a3af043d6ee86fd9fb03b934c19c490b9a0b7bd3eea952125cbcd5129296c21c9589c10f0a4f2b143fe5e60c9a8910cb96713e54ed58ef777ee7c41d376c34b4903599a555883362c5b0ba66f4dc2fc37f9e0b650def39c211cbea3f5f20241997101aba3dab16f25f73eeb428dcf3205f360427521b068f20ce89a4475715fe1c0d3794ee9522c5a77e6a34c8e14c9279b23838120b873078e42de61e292bc91d4edaf04e462eb1a7dee8dd5a2c9ed15b6d1ba8760c87f0a29afe94b8db9fe4d1fba3659a17c73a143f74315edae72885296d7c58aeef438225dc3b777c7fac3ad9456f3c04b839a4ec752c86096e8b35417285df1ef8065686f0663478a921be1e1f759de85f4e747b3530e17d262600e2871de8cc4ba5ec3d839073026cc925055b4f71a0af32fa729f7f64abce73abfa276ac99094149279dcfabcdfba2b9087c97adefbfecc897842912f2dae712fdb2f84b24c357fab664017943258ec45db03768670705a10e1b0137b3327d8a13616347793aa3c6d9d77c598c48567dbf3552f695e3c86bb67e86ea7e68d4be7115ec7b57416c8f696cfa2dea689dc3449a276417e23454b9d51352fe5ac0fe17827676f3e1ba95d4e2a8288928e5c580616b15b41536cbf78a35703a91672e740ddb38494026891179a09c786690d1b5ee78836cdd0f72c5ead834819fbabe1c0
 ::::
 :::: {.column width="25%"}
-![](image_crypte.jpeg)
+![](images/image_crypte.jpeg)
 ::::
 :::: {.column width="25%"}
-![](image_contours.jpeg)
+![](images/image_contours.jpeg)
 ::::
 :::
 

@@ -41,7 +41,7 @@ class Presentation(Slide):
                 Text("Justin Bossard, Tom Mafille").scale(0.5),
                 ).arrange(DOWN, buff = 1)
 
-        title += SVGMobject("logob.svg", height = 0.7).to_corner(DL)
+        title += SVGMobject("assets/logob.svg", height = 0.7).to_corner(DL)
 
         self.next_slide(notes="""
                         Salut à tous les amis, c'est David Lafarge Pokémon
